@@ -1,6 +1,4 @@
-# coding: utf-8
 class Omikuji
-
   def self.random_select
     kuji_list.sample
   end
