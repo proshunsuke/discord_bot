@@ -15,6 +15,10 @@ mail: example@mail.com
 password: password
 ```
 
+```
+bundle install
+```
+
 botを動作させたい環境に招待する。
 
 以下を実行して動作させる。
