@@ -32,3 +32,8 @@ ruby bot.rb
 |環境|バージョン|
 |:--|:--|
 |ruby|2.3.0|
+
+# 参考
+
+[Discord](https://discordapp.com/)
+
