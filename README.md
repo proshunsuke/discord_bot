@@ -35,5 +35,5 @@ ruby bot.rb
 
 # 参考
 
-[Discord](https://discordapp.com/)
-
+- [Discord](https://discordapp.com/)
+- [discordrb](https://github.com/meew0/discordrb)
