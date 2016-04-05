@@ -1,6 +1,7 @@
 require './lib/discord/client'
-require './lib/omikuji'
+require './lib/service'
 
-bot = Discord::Client.new
-bot.response('おみくじ', Omikuji.random_select)
+bot = Discord::Client.new.bot
+service = Service.new(bot)
+service.omikuji
 bot.run
