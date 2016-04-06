@@ -4,7 +4,7 @@ require 'yaml'
 module Discord
   class Client
     def initialize
-      @bot = Discordrb::Bot.new secrets["mail"], secrets["password"]
+      @bot = Discordrb::Bot.new secrets['mail'], secrets['password']
     end
 
     def bot
