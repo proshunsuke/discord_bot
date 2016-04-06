@@ -2,13 +2,7 @@
 
 # 機能
 
-## おみくじ
-
-`おみくじ` というメッセージを送ると、 `大吉, 中吉, 小吉, 吉, 半吉, 末吉, 末小吉, 凶, 小凶, 半凶, 末凶, 大凶` の中からランダムで返す
-
-## 炎上ジェネレーター画像生成
-
-`炎上 #{text1} #{text2}` というメッセージを送ると、 [炎上ジェネレーター](https://enjo-generator.herokuapp.com/)で作成された画像のURLを返す
+[wiki](https://github.com/proshunsuke/discord_bot/wiki/discord_bot%E3%81%AE%E6%A9%9F%E8%83%BD)に記載している。
 
 # 開発
 
