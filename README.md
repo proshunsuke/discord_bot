@@ -38,6 +38,8 @@ ruby bot.rb
 |環境|バージョン|
 |:--|:--|
 |ruby|2.3.0|
+|discordrb|1.8.1|
+|activesupport|4.2.6|
 
 # 参考
 
